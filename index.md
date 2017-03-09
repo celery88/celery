@@ -1,29 +1,12 @@
-## Welcome to GitHub Pages
+## 凯瑟琳琥珀
+```
+凯瑟琳琥珀是一家专注于琥珀蜜蜡鉴赏、交流、销售为一体的专业机构。凯瑟琳琥珀秉承只做精品天然琥珀蜜蜡的原则，我们在俄罗斯原产地为大家精挑细选颜色、品质一流的原石，进行打磨加工，制成精美饰品。
+```
 
-You can use the [editor on GitHub](https://github.com/celery88/celery/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 琥珀介绍
+```
+琥珀是距今4500—9900万年前的松柏科植物的树脂滴落，掩埋在地下千万年，在高压和高温的作用下石化形成。琥珀的形状多种多样，表面常保留着当初树脂流动时产生的纹路，内部经常可见气泡及古老昆虫、动物或植物碎屑。常见琥珀种类：金珀，金蓝珀，绿茶珀，红茶珀，血珀，翳珀、花珀、棕红珀，蓝珀，绿珀，虫珀，蜜蜡，珀根，缅甸根珀等。
+蜜蜡是琥珀的一个品种，呈不透明状或半不透明状的琥珀被称作密腊。蜜蜡比起透明的琥珀更珍贵并受人们的喜爱
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
